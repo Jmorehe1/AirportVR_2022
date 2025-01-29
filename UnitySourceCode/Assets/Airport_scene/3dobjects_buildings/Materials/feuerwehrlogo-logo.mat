@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: feuerwehrlogo-logo
+  m_Shader: {fileID: 22, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: f87b0f9fe2f45bd47886594f19699865, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeTex:
+        m_Texture: {fileID: 8900000, guid: 489e72455e74b3048ba8ad92fd13df7f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9b2090dbaa11e1c48b83e8d49684419b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Spec_Gloss_Reflec_Masks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlendFactor: 0.26119402
+    - _EdgeAlpha: 0.104477614
+    - _EmissionFactor: 0
+    - _FresnelPower: 0.38059705
+    - _FrezFalloff: 6.835821
+    - _FrezPow: 1.4738806
+    - _Gloss: 0.15671642
+    - _Metalics: 0.43283585
+    - _Reflection: 0.08208955
+    - _Shininess: 0.050309137
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ReflectColor: {r: 0.32835823, g: 0.32835823, b: 0.32835823, a: 0.5019608}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
