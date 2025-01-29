@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 699ef004dc15a2742b2faa2c391e81cb
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: heizung_typ01
+    100006: heizung_typ01_lod
+    100008: heizung_typ02
+    100010: heizung_typ02_lod
+    100012: heizung_typ03
+    100014: heizung_typ03_lod
+    100016: heizung_typ04
+    100018: heizung_typ04_lod
+    400000: Camera
+    400002: //RootNode
+    400004: heizung_typ01
+    400006: heizung_typ01_lod
+    400008: heizung_typ02
+    400010: heizung_typ02_lod
+    400012: heizung_typ03
+    400014: heizung_typ03_lod
+    400016: heizung_typ04
+    400018: heizung_typ04_lod
+    2300000: heizung_typ01
+    2300002: heizung_typ01_lod
+    2300004: heizung_typ02
+    2300006: heizung_typ02_lod
+    2300008: heizung_typ03
+    2300010: heizung_typ03_lod
+    2300012: heizung_typ04
+    2300014: heizung_typ04_lod
+    3300000: heizung_typ01
+    3300002: heizung_typ01_lod
+    3300004: heizung_typ02
+    3300006: heizung_typ02_lod
+    3300008: heizung_typ03
+    3300010: heizung_typ03_lod
+    3300012: heizung_typ04
+    3300014: heizung_typ04_lod
+    4300000: heizung_typ01
+    4300002: heizung_typ02
+    4300004: heizung_typ03
+    4300006: heizung_typ04
+    4300008: heizung_typ01_lod
+    4300010: heizung_typ02_lod
+    4300012: heizung_typ03_lod
+    4300014: heizung_typ04_lod
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 57
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
