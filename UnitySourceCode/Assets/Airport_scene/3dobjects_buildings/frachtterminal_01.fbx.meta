@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: e66c8f1ba7fb0c34c8d25b21fbcf1c6e
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: beschriftung_fracht_a
+    100002: beschriftung_fracht_b
+    100004: beschriftung_fracht_c
+    100006: beschriftung_fracht_d
+    100008: beschriftung_fracht_e
+    100010: beschriftung_fracht_f
+    100012: boden_wiese_01
+    100014: boden_wiese_02
+    100016: boden_wiese_03
+    100018: Camera
+    100020: //RootNode
+    100022: gebaeude_main
+    100024: gelaender_rampe
+    100026: lampen_wand
+    100028: treppe
+    100030: vordach_01
+    100032: vordach_02
+    100034: vordach_rampe
+    400000: beschriftung_fracht_a
+    400002: beschriftung_fracht_b
+    400004: beschriftung_fracht_c
+    400006: beschriftung_fracht_d
+    400008: beschriftung_fracht_e
+    400010: beschriftung_fracht_f
+    400012: boden_wiese_01
+    400014: boden_wiese_02
+    400016: boden_wiese_03
+    400018: Camera
+    400020: //RootNode
+    400022: gebaeude_main
+    400024: gelaender_rampe
+    400026: lampen_wand
+    400028: treppe
+    400030: vordach_01
+    400032: vordach_02
+    400034: vordach_rampe
+    2300000: beschriftung_fracht_a
+    2300002: beschriftung_fracht_b
+    2300004: beschriftung_fracht_c
+    2300006: beschriftung_fracht_d
+    2300008: beschriftung_fracht_e
+    2300010: beschriftung_fracht_f
+    2300012: boden_wiese_01
+    2300014: boden_wiese_02
+    2300016: boden_wiese_03
+    2300018: gebaeude_main
+    2300020: gelaender_rampe
+    2300022: lampen_wand
+    2300024: treppe
+    2300026: vordach_01
+    2300028: vordach_02
+    2300030: vordach_rampe
+    3300000: beschriftung_fracht_a
+    3300002: beschriftung_fracht_b
+    3300004: beschriftung_fracht_c
+    3300006: beschriftung_fracht_d
+    3300008: beschriftung_fracht_e
+    3300010: beschriftung_fracht_f
+    3300012: boden_wiese_01
+    3300014: boden_wiese_02
+    3300016: boden_wiese_03
+    3300018: gebaeude_main
+    3300020: gelaender_rampe
+    3300022: lampen_wand
+    3300024: treppe
+    3300026: vordach_01
+    3300028: vordach_02
+    3300030: vordach_rampe
+    4300000: gebaeude_main
+    4300002: boden_wiese_01
+    4300004: boden_wiese_02
+    4300006: boden_wiese_03
+    4300008: treppe
+    4300010: vordach_rampe
+    4300012: vordach_02
+    4300014: lampen_wand
+    4300016: gelaender_rampe
+    4300018: vordach_01
+    4300020: beschriftung_fracht_f
+    4300022: beschriftung_fracht_e
+    4300024: beschriftung_fracht_d
+    4300026: beschriftung_fracht_c
+    4300028: beschriftung_fracht_b
+    4300030: beschriftung_fracht_a
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 51
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

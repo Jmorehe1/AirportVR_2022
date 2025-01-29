@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 206f68c6c4c65034a8287bb9b2998364
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 00_mast_atr_9m_3er
+    100002: 01_mast_atr_9m_3er_blau
+    100004: 02_mast_atr_9m_3er_gruen
+    100006: 03_mast_atr_9m_3er_rot
+    100008: 04_mast_atr_9m_5er
+    100010: 05_mast_atr_9m_5er_blau
+    100012: 06_mast_atr_9m_5er_gruen
+    100014: 07_mast_atr_9m_5er_rot
+    100016: 08_mast_atr_6m_3er
+    100018: 09_mast_atr_6m_3er_blau
+    100020: 10_mast_atr_6m_3er_gruen
+    100022: 11_mast_atr_6m_3er_rot
+    100024: 12_mast_atr_6m_5er
+    100026: 13_mast_atr_6m_5er_blau
+    100028: 14_mast_atr_6m_5er_gruen
+    100030: 15_mast_atr_6m_5er_rot
+    100032: 16_mast_atr_3m_3er
+    100034: 17_mast_atr_3m_3er_blau
+    100036: 18_mast_atr_3m_3er_gruen
+    100038: 19_mast_atr_3m_3er_rot
+    100040: 20_mast_atr_3m_5er
+    100042: 21_mast_atr_3m_5er_blau
+    100044: 22_mast_atr_3m_5er_gruen
+    100046: 23_mast_atr_3m_5er_rot
+    100048: //RootNode
+    100050: Camera
+    400000: 00_mast_atr_9m_3er
+    400002: 01_mast_atr_9m_3er_blau
+    400004: 02_mast_atr_9m_3er_gruen
+    400006: 03_mast_atr_9m_3er_rot
+    400008: 04_mast_atr_9m_5er
+    400010: 05_mast_atr_9m_5er_blau
+    400012: 06_mast_atr_9m_5er_gruen
+    400014: 07_mast_atr_9m_5er_rot
+    400016: 08_mast_atr_6m_3er
+    400018: 09_mast_atr_6m_3er_blau
+    400020: 10_mast_atr_6m_3er_gruen
+    400022: 11_mast_atr_6m_3er_rot
+    400024: 12_mast_atr_6m_5er
+    400026: 13_mast_atr_6m_5er_blau
+    400028: 14_mast_atr_6m_5er_gruen
+    400030: 15_mast_atr_6m_5er_rot
+    400032: 16_mast_atr_3m_3er
+    400034: 17_mast_atr_3m_3er_blau
+    400036: 18_mast_atr_3m_3er_gruen
+    400038: 19_mast_atr_3m_3er_rot
+    400040: 20_mast_atr_3m_5er
+    400042: 21_mast_atr_3m_5er_blau
+    400044: 22_mast_atr_3m_5er_gruen
+    400046: 23_mast_atr_3m_5er_rot
+    400048: //RootNode
+    400050: Camera
+    2300000: 00_mast_atr_9m_3er
+    2300002: 01_mast_atr_9m_3er_blau
+    2300004: 02_mast_atr_9m_3er_gruen
+    2300006: 03_mast_atr_9m_3er_rot
+    2300008: 04_mast_atr_9m_5er
+    2300010: 05_mast_atr_9m_5er_blau
+    2300012: 06_mast_atr_9m_5er_gruen
+    2300014: 07_mast_atr_9m_5er_rot
+    2300016: 08_mast_atr_6m_3er
+    2300018: 09_mast_atr_6m_3er_blau
+    2300020: 10_mast_atr_6m_3er_gruen
+    2300022: 11_mast_atr_6m_3er_rot
+    2300024: 12_mast_atr_6m_5er
+    2300026: 13_mast_atr_6m_5er_blau
+    2300028: 14_mast_atr_6m_5er_gruen
+    2300030: 15_mast_atr_6m_5er_rot
+    2300032: 16_mast_atr_3m_3er
+    2300034: 17_mast_atr_3m_3er_blau
+    2300036: 18_mast_atr_3m_3er_gruen
+    2300038: 19_mast_atr_3m_3er_rot
+    2300040: 20_mast_atr_3m_5er
+    2300042: 21_mast_atr_3m_5er_blau
+    2300044: 22_mast_atr_3m_5er_gruen
+    2300046: 23_mast_atr_3m_5er_rot
+    3300000: 00_mast_atr_9m_3er
+    3300002: 01_mast_atr_9m_3er_blau
+    3300004: 02_mast_atr_9m_3er_gruen
+    3300006: 03_mast_atr_9m_3er_rot
+    3300008: 04_mast_atr_9m_5er
+    3300010: 05_mast_atr_9m_5er_blau
+    3300012: 06_mast_atr_9m_5er_gruen
+    3300014: 07_mast_atr_9m_5er_rot
+    3300016: 08_mast_atr_6m_3er
+    3300018: 09_mast_atr_6m_3er_blau
+    3300020: 10_mast_atr_6m_3er_gruen
+    3300022: 11_mast_atr_6m_3er_rot
+    3300024: 12_mast_atr_6m_5er
+    3300026: 13_mast_atr_6m_5er_blau
+    3300028: 14_mast_atr_6m_5er_gruen
+    3300030: 15_mast_atr_6m_5er_rot
+    3300032: 16_mast_atr_3m_3er
+    3300034: 17_mast_atr_3m_3er_blau
+    3300036: 18_mast_atr_3m_3er_gruen
+    3300038: 19_mast_atr_3m_3er_rot
+    3300040: 20_mast_atr_3m_5er
+    3300042: 21_mast_atr_3m_5er_blau
+    3300044: 22_mast_atr_3m_5er_gruen
+    3300046: 23_mast_atr_3m_5er_rot
+    4300000: 08_mast_atr_6m_3er
+    4300002: 05_mast_atr_9m_5er_blau
+    4300004: 02_mast_atr_9m_3er_gruen
+    4300006: 04_mast_atr_9m_5er
+    4300008: 07_mast_atr_9m_5er_rot
+    4300010: 00_mast_atr_9m_3er
+    4300012: 03_mast_atr_9m_3er_rot
+    4300014: 01_mast_atr_9m_3er_blau
+    4300016: 06_mast_atr_9m_5er_gruen
+    4300018: 09_mast_atr_6m_3er_blau
+    4300020: 10_mast_atr_6m_3er_gruen
+    4300022: 11_mast_atr_6m_3er_rot
+    4300024: 12_mast_atr_6m_5er
+    4300026: 13_mast_atr_6m_5er_blau
+    4300028: 14_mast_atr_6m_5er_gruen
+    4300030: 15_mast_atr_6m_5er_rot
+    4300032: 16_mast_atr_3m_3er
+    4300034: 17_mast_atr_3m_3er_blau
+    4300036: 18_mast_atr_3m_3er_gruen
+    4300038: 19_mast_atr_3m_3er_rot
+    4300040: 20_mast_atr_3m_5er
+    4300042: 21_mast_atr_3m_5er_blau
+    4300044: 22_mast_atr_3m_5er_gruen
+    4300046: 23_mast_atr_3m_5er_rot
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 32
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
