@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 5278cd72bb8a76e46834b498f0d98886
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: wein_01_5er
+    100006: wein_01_single
+    100008: wein_01_stapel
+    100010: wein_02_5er
+    100012: wein_02_single
+    100014: wein_02_stapel
+    100016: wein_03_5er
+    100018: wein_03_single
+    100020: wein_03_stapel
+    100022: wein_04_5er
+    100024: wein_04_single
+    100026: wein_04_stapel
+    100028: wein_05_double
+    100030: wein_05_single
+    100032: wein_06_double
+    100034: wein_06_single
+    400000: Camera
+    400002: //RootNode
+    400004: wein_01_5er
+    400006: wein_01_single
+    400008: wein_01_stapel
+    400010: wein_02_5er
+    400012: wein_02_single
+    400014: wein_02_stapel
+    400016: wein_03_5er
+    400018: wein_03_single
+    400020: wein_03_stapel
+    400022: wein_04_5er
+    400024: wein_04_single
+    400026: wein_04_stapel
+    400028: wein_05_double
+    400030: wein_05_single
+    400032: wein_06_double
+    400034: wein_06_single
+    2300000: wein_01_5er
+    2300002: wein_01_single
+    2300004: wein_01_stapel
+    2300006: wein_02_5er
+    2300008: wein_02_single
+    2300010: wein_02_stapel
+    2300012: wein_03_5er
+    2300014: wein_03_single
+    2300016: wein_03_stapel
+    2300018: wein_04_5er
+    2300020: wein_04_single
+    2300022: wein_04_stapel
+    2300024: wein_05_double
+    2300026: wein_05_single
+    2300028: wein_06_double
+    2300030: wein_06_single
+    3300000: wein_01_5er
+    3300002: wein_01_single
+    3300004: wein_01_stapel
+    3300006: wein_02_5er
+    3300008: wein_02_single
+    3300010: wein_02_stapel
+    3300012: wein_03_5er
+    3300014: wein_03_single
+    3300016: wein_03_stapel
+    3300018: wein_04_5er
+    3300020: wein_04_single
+    3300022: wein_04_stapel
+    3300024: wein_05_double
+    3300026: wein_05_single
+    3300028: wein_06_double
+    3300030: wein_06_single
+    4300000: wein_01_single
+    4300002: wein_02_single
+    4300004: wein_03_single
+    4300006: wein_04_single
+    4300008: wein_01_5er
+    4300010: wein_02_5er
+    4300012: wein_03_5er
+    4300014: wein_04_5er
+    4300016: wein_01_stapel
+    4300018: wein_02_stapel
+    4300020: wein_03_stapel
+    4300022: wein_04_stapel
+    4300024: wein_05_double
+    4300026: wein_06_double
+    4300028: wein_06_single
+    4300030: wein_05_single
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: glasvirtrinen-vitrine glassplatten
+  m_Shader: {fileID: 32, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cube:
+        m_Texture: {fileID: 8900000, guid: 489e72455e74b3048ba8ad92fd13df7f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c54129154d3dd194a92fabcb1631aff4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Density: 0.7692307
+    - _EdgeAlpha: 0.1923077
+    - _FresnelPower: 0.75
+    - _FrezFalloff: 4
+    - _FrezPow: 1.5
+    - _Gloss: 0.46153846
+    - _Metalics: 0
+    - _Reflection: 0.5192308
+    - _Shininess: 0.20868222
+    m_Colors:
+    - _Color: {r: 0.13633327, g: 0.26865673, b: 0.26865673, a: 0.65882355}
+    - _ReflectColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _SpecColor: {r: 0.880597, g: 0.880597, b: 0.880597, a: 0}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6
