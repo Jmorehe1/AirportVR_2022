@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< Updated upstream:UnitySourceCode/Assets/StreamingAssets/SGS/voices/es_ES-mls_10246-low 1.onnx.meta
 guid: bcfabb004fbd3ec4baae30139286ccd4
 DefaultImporter:
+========
+guid: fc4f31bf8b3d4493d8f95d48746332c4
+TextScriptImporter:
+>>>>>>>> Stashed changes:UnitySourceCode/Library/PackageCache/com.unity.xr.openxr@1.13.0/LICENSE.md.meta
   externalObjects: {}
   userData: 
   assetBundleName: 
