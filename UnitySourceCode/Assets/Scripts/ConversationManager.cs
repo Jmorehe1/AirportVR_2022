@@ -24,8 +24,8 @@ public class ConversationManager : MonoBehaviour
     public ResponsePanel responsePanel;
     public Transform passport;
 
-    
 
+    public Menu menu;
     [Header("Controllers")]
     public List<XRController> controllers;
 
@@ -82,6 +82,10 @@ public class ConversationManager : MonoBehaviour
             Attendant_voice.Speak("Buenos dias, bienvenido al Aeropuerto de Bogota. Cual es el proposito de su visita?",
             SpeechVoiceSpeakFlags.SVSFlagsAsync | SpeechVoiceSpeakFlags.SVSFPurgeBeforeSpeak);
         }
+
+        // Check if the Enter key is pressed
+        bool enterKeyPressed = Input.GetKeyDown(KeyCode.Return);
+
         //check to see if either trigger is pressed to proceed with dialogue
         bool rightHandTrigger = false;
         controllers[0].inputDevice.TryGetFeatureValue(CommonUsages.triggerButton, out rightHandTrigger);
@@ -89,7 +93,7 @@ public class ConversationManager : MonoBehaviour
         bool leftHandTrigger = false;
         controllers[1].inputDevice.TryGetFeatureValue(CommonUsages.triggerButton, out leftHandTrigger);
         
-        triggerIsDown = rightHandTrigger || leftHandTrigger;
+        triggerIsDown = rightHandTrigger || leftHandTrigger || enterKeyPressed;
         
     }
 
@@ -158,6 +162,7 @@ public class ConversationManager : MonoBehaviour
             
             // Debug.Log("ALL DONE");
             audioSource.clip = finalClip;
+            menu.SetDialogueFinished(true);
             audioSource.Play();
             yield return new WaitUntil(()=>audioSource.isPlaying);
             yield return new WaitUntil(()=>!audioSource.isPlaying);
@@ -179,7 +184,7 @@ public class ConversationManager : MonoBehaviour
 
             GameObject.FindObjectOfType<ScreenFader>().FadeOut();
             yield return new WaitForSeconds(1.5f);
-            SceneManager.LoadScene("MainMenu");
+            //SceneManager.LoadScene("MainMenu");
             yield return null;
         }
     }

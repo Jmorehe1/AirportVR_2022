@@ -10,7 +10,7 @@ public class ZmqClient : MonoBehaviour
     private RequestSocket clientSocket;
 
     // Address of the server (replace with the actual address of your server)
-    private string serverAddress = "tcp://192.168.116.123:8888";
+    private string serverAddress = "tcp://192.168.116.123:22";
 
     void Start()
     {
