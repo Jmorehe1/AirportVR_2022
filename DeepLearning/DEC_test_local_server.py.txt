@@ -1,0 +1,89 @@
+import os
+import zmq
+from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+from huggingface_hub import login, logout
+import torch
+import re
+from sentence_transformers import SentenceTransformer, util
+
+# Initialize login for Hugging Face models
+login("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")
+
+# Initialize tokenizer and Sentence Similarity model
+print("\n[START-UP] Loading models...")
+similarity_model = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
+
+# Define the model name and memory-efficient loading configuration
+model_name = "meta-llama/Llama-2-7b-chat-hf"
+bnb_config = BitsAndBytesConfig(
+    load_in_4bit=True,
+    bnb_4bit_use_double_quant=True,
+    bnb_4bit_quant_type="nf4",
+    bnb_4bit_compute_dtype=torch.bfloat16,
+)
+
+# Check for GPU or fallback to CPU
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+print(f"MODEL LOADING: {model_name} USING TORCH DEVICE: {device}")
+
+# Load model using memory-efficient configuration
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    device_map="auto",
+    quantization_config=bnb_config
+)
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+
+print("\n[START-UP] Models loaded successfully")
+
+# Define a function to tokenize words for filtering responses
+def get_tokens_as_list(word_list):
+    tokens_list = [tokenizer([word], add_special_tokens=False).input_ids[0] for word in word_list]
+    return tokens_list
+
+# Banned words for response generation
+bad_words_ids = get_tokens_as_list(["¡", "Great", "Perfecto", "Entendido", "!"])
+
+# Function to handle response generation in Spanish
+def forward_pass(messages):
+    while True:
+        inputs = tokenizer(
+            messages, return_tensors="pt", padding=True, truncation=True
+        ).to(device)
+        output = model.generate(
+            inputs.input_ids,
+            bad_words_ids=bad_words_ids,
+            do_sample=True,
+            top_k=30,
+            max_new_tokens=512
+        )
+        response = tokenizer.decode(output[0], skip_special_tokens=True)
+        response = re.sub(r'[*(][^)]*[*)]', '', response)  # Remove unwanted symbols
+        if response.startswith("User:"):
+            response = response.split("User:")[1].strip()
+        if py3langid.classify(response)[0] == "es":
+            break
+    return response
+
+# ZMQ server setup
+if __name__ == "__main__":
+    port = 8888
+    context = zmq.Context()
+    socket = context.socket(zmq.REP)
+    socket.bind(f"tcp://*:{port}")
+    os.system("nvidia-smi")
+
+    print(f"\n[START-UP] Server running on port {port}...")
+    messages = [{"role": "system", "content": "Always speak in Spanish. You are an airport customs agent."}]
+    
+    while True:
+        response = socket.recv().decode("utf-8")
+        if response == "EXIT":
+            break
+        messages.append({"role": "user", "content": response})
+        question = forward_pass(messages)
+        messages.append({"role": "assistant", "content": question})
+        socket.send_string(question)
+
+    logout()
+    print("\n[EXIT] Server shutting down...")
