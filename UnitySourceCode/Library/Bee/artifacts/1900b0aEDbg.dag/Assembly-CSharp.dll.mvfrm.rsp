@@ -1,5 +1,8 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 Library\Bee\artifacts\mvdfrm\Unity.2D.Sprite.Editor.ref.dll_0169DD889AE82A51.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.2D.Tilemap.Editor.ref.dll_217A589FE1735158.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.AI.Navigation.Editor.ConversionSystem.ref.dll_E86391A30E30A641.mvfrm
@@ -55,6 +58,9 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.ref.dll_7A226C4BCC59C3D3.mvf
 Library\Bee\artifacts\mvdfrm\UnityEngine.SpatialTracking.ref.dll_42E75335C25EB99C.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.XR.LegacyInputHelpers.ref.dll_1836C6475EC0BAA9.mvfrm
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 Library\Bee\artifacts\mvdfrm\UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.DeviceSimulatorModule.dll_99ABAFE06C6098BA.mvfrm
@@ -99,7 +105,10 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.InputModule.dll_0F7767CBAD4A405B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A9.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Library\Bee\artifacts\mvdfrm\UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Library\Bee\artifacts\mvdfrm\UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm
@@ -143,7 +152,14 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.VirtualTexturingModule.dll_4EDA04422CB3
 Library\Bee\artifacts\mvdfrm\UnityEngine.VRModule.dll_698D763E2A27EC4F.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.WindModule.dll_0D2BCEC6A4FC4D4B.mvfrm
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm
+=======
+Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm
+>>>>>>> Stashed changes
 =======
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm

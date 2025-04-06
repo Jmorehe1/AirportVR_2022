@@ -1,5 +1,8 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 GridBrush
 UnityEditor
 GridBrushEditor
@@ -27,6 +30,9 @@ Toolkit
 IAttachPointVelocityProvider
 AttachPointVelocityProviderExtensions
 IAttachPointVelocityTracker
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 AssetModificationProcessor
 

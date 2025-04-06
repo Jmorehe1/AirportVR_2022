@@ -147,7 +147,10 @@
 -r:"Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll"
 -r:"Assets/SGS/Plugins/SpeechGenerationSystem.dll"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -r:"Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
@@ -362,8 +365,11 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll"
 =======
+=======
+>>>>>>> Stashed changes
 -r:"Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
 -r:"Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll"
 -r:"Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll"
@@ -375,6 +381,9 @@
 -r:"Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Analytics.ref.dll"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-firstpass.ref.dll"
@@ -389,6 +398,10 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.ref.dll"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.ref.dll"
+>>>>>>> Stashed changes
 =======
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.ref.dll"
 >>>>>>> Stashed changes
@@ -399,7 +412,10 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.ref.dll"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Tilemap.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll"
@@ -457,6 +473,9 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"

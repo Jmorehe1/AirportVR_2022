@@ -256,8 +256,11 @@
         248,
         249,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         250
 =======
+=======
+>>>>>>> Stashed changes
         250,
         251,
         252,
@@ -995,6 +998,9 @@
         984,
         985,
         986
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "OverwriteOutputs": false,
@@ -1002,22 +1008,32 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.UnityAdditionalFile.txt",
       "DisplayName": "Writing Addressable_Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 106,
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "DisplayName": "Writing UnityEngine.TestRunner.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 110,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.UnityAdditionalFile.txt"
+=======
+        "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.UnityAdditionalFile.txt"
 >>>>>>> Stashed changes
@@ -1025,6 +1041,7 @@
       "DebugActionIndex": 1
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.rsp",
       "DisplayName": "Writing Addressable_Editor.rsp",
@@ -1036,6 +1053,8 @@
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.rsp"
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp",
       "ActionType": "WriteFile",
@@ -1045,11 +1064,15 @@
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "DebugActionIndex": 2
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.rsp2",
       "DisplayName": "Writing Addressable_Editor.rsp2",
@@ -1061,6 +1084,8 @@
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.rsp2"
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp2",
       "DisplayName": "Writing UnityEngine.TestRunner.rsp2",
       "ActionType": "WriteFile",
@@ -1070,11 +1095,15 @@
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp2"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "DebugActionIndex": 3
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.dll (+2 others)",
       "DisplayName": "Csc Addressable_Editor",
@@ -1106,10 +1135,15 @@
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll (+2 others)",
       "DisplayName": "Csc UnityEngine.TestRunner",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp2\"",
       "Inputs": [
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll",
@@ -1155,7 +1189,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
@@ -1199,6 +1236,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/Microsoft.Win32.Primitives.dll",
@@ -1339,6 +1377,8 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.pdb",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll"
 =======
+=======
+>>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.Core.dll",
@@ -1584,6 +1624,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.pdb",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "ToBuildDependencies": [
@@ -1591,7 +1634,11 @@
         2,
         3,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         93
+=======
+        92
+>>>>>>> Stashed changes
 =======
         92
 >>>>>>> Stashed changes
@@ -1602,7 +1649,11 @@
       ],
       "FrontendResponseFiles": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.rsp"
+=======
+        "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp"
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.rsp"
 >>>>>>> Stashed changes
@@ -1615,6 +1666,10 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+      "CachingMode": "ByDirectInputs",
+>>>>>>> Stashed changes
 =======
       "CachingMode": "ByDirectInputs",
 >>>>>>> Stashed changes
@@ -1727,6 +1782,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         208,
         209,
@@ -1769,6 +1825,8 @@
         246,
         247
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -2054,6 +2112,9 @@
         981,
         982,
         983
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "OverwriteOutputs": false,
@@ -2691,6 +2752,7 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm",
       "DisplayName": "MovedFromExtractor UnityEngine.NVIDIAModule.dll_9A939EC84E78938E",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\mvdfrm\\UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm\" \"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Managed\\UnityEngine\\UnityEngine.NVIDIAModule.dll\"",
@@ -2708,6 +2770,8 @@
     {
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm",
       "DisplayName": "MovedFromExtractor UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\mvdfrm\\UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm\" \"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Managed\\UnityEngine\\UnityEngine.ParticleSystemModule.dll\"",
@@ -2721,7 +2785,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 50
+=======
+      "DebugActionIndex": 49
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 49
 >>>>>>> Stashed changes
@@ -2740,7 +2808,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 51
+=======
+      "DebugActionIndex": 50
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 50
 >>>>>>> Stashed changes
@@ -2759,7 +2831,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 52
+=======
+      "DebugActionIndex": 51
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 51
 >>>>>>> Stashed changes
@@ -2778,7 +2854,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 53
+=======
+      "DebugActionIndex": 52
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 52
 >>>>>>> Stashed changes
@@ -2797,7 +2877,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 54
+=======
+      "DebugActionIndex": 53
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 53
 >>>>>>> Stashed changes
@@ -2816,7 +2900,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 55
+=======
+      "DebugActionIndex": 54
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 54
 >>>>>>> Stashed changes
@@ -2835,7 +2923,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 56
+=======
+      "DebugActionIndex": 55
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 55
 >>>>>>> Stashed changes
@@ -2854,7 +2946,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 57
+=======
+      "DebugActionIndex": 56
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 56
 >>>>>>> Stashed changes
@@ -2873,7 +2969,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 58
+=======
+      "DebugActionIndex": 57
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 57
 >>>>>>> Stashed changes
@@ -2892,7 +2992,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 59
+=======
+      "DebugActionIndex": 58
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 58
 >>>>>>> Stashed changes
@@ -2911,7 +3015,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 60
+=======
+      "DebugActionIndex": 59
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 59
 >>>>>>> Stashed changes
@@ -2930,7 +3038,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 61
+=======
+      "DebugActionIndex": 60
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 60
 >>>>>>> Stashed changes
@@ -2949,7 +3061,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 62
+=======
+      "DebugActionIndex": 61
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 61
 >>>>>>> Stashed changes
@@ -2968,7 +3084,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 63
+=======
+      "DebugActionIndex": 62
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 62
 >>>>>>> Stashed changes
@@ -2987,7 +3107,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 64
+=======
+      "DebugActionIndex": 63
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 63
 >>>>>>> Stashed changes
@@ -3006,7 +3130,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 65
+=======
+      "DebugActionIndex": 64
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 64
 >>>>>>> Stashed changes
@@ -3025,7 +3153,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 66
+=======
+      "DebugActionIndex": 65
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 65
 >>>>>>> Stashed changes
@@ -3044,7 +3176,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 67
+=======
+      "DebugActionIndex": 66
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 66
 >>>>>>> Stashed changes
@@ -3063,7 +3199,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 68
+=======
+      "DebugActionIndex": 67
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 67
 >>>>>>> Stashed changes
@@ -3082,7 +3222,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 69
+=======
+      "DebugActionIndex": 68
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 68
 >>>>>>> Stashed changes
@@ -3101,7 +3245,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 70
+=======
+      "DebugActionIndex": 69
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 69
 >>>>>>> Stashed changes
@@ -3120,7 +3268,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 71
+=======
+      "DebugActionIndex": 70
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 70
 >>>>>>> Stashed changes
@@ -3139,7 +3291,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 72
+=======
+      "DebugActionIndex": 71
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 71
 >>>>>>> Stashed changes
@@ -3158,7 +3314,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 73
+=======
+      "DebugActionIndex": 72
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 72
 >>>>>>> Stashed changes
@@ -3177,7 +3337,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 74
+=======
+      "DebugActionIndex": 73
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 73
 >>>>>>> Stashed changes
@@ -3196,7 +3360,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 75
+=======
+      "DebugActionIndex": 74
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 74
 >>>>>>> Stashed changes
@@ -3215,7 +3383,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 76
+=======
+      "DebugActionIndex": 75
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 75
 >>>>>>> Stashed changes
@@ -3234,7 +3406,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 77
+=======
+      "DebugActionIndex": 76
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 76
 >>>>>>> Stashed changes
@@ -3253,7 +3429,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 78
+=======
+      "DebugActionIndex": 77
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 77
 >>>>>>> Stashed changes
@@ -3272,7 +3452,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 79
+=======
+      "DebugActionIndex": 78
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 78
 >>>>>>> Stashed changes
@@ -3291,7 +3475,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 80
+=======
+      "DebugActionIndex": 79
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 79
 >>>>>>> Stashed changes
@@ -3310,7 +3498,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 81
+=======
+      "DebugActionIndex": 80
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 80
 >>>>>>> Stashed changes
@@ -3329,7 +3521,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 82
+=======
+      "DebugActionIndex": 81
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 81
 >>>>>>> Stashed changes
@@ -3348,7 +3544,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 83
+=======
+      "DebugActionIndex": 82
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 82
 >>>>>>> Stashed changes
@@ -3367,7 +3567,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 84
+=======
+      "DebugActionIndex": 83
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 83
 >>>>>>> Stashed changes
@@ -3386,7 +3590,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 85
+=======
+      "DebugActionIndex": 84
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 84
 >>>>>>> Stashed changes
@@ -3405,7 +3613,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 86
+=======
+      "DebugActionIndex": 85
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 85
 >>>>>>> Stashed changes
@@ -3424,7 +3636,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 87
+=======
+      "DebugActionIndex": 86
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 86
 >>>>>>> Stashed changes
@@ -3443,7 +3659,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 88
+=======
+      "DebugActionIndex": 87
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 87
 >>>>>>> Stashed changes
@@ -3462,7 +3682,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 89
+=======
+      "DebugActionIndex": 88
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 88
 >>>>>>> Stashed changes
@@ -3481,7 +3705,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 90
+=======
+      "DebugActionIndex": 89
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 89
 >>>>>>> Stashed changes
@@ -3499,6 +3727,7 @@
       ],
       "AllowUnexpectedOutput": true,
       "Env": [],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 91
     },
@@ -3520,6 +3749,8 @@
       "DisplayName": "MovedFromExtractorCombine Addressable_Editor.dll",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.dll.mvfrm.rsp\"",
 =======
+=======
+>>>>>>> Stashed changes
       "DebugActionIndex": 90
     },
     {
@@ -3539,6 +3770,9 @@
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll.mvfrm",
       "DisplayName": "MovedFromExtractorCombine UnityEngine.TestRunner.dll",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll.mvfrm.rsp\"",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Inputs": [
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
@@ -3585,7 +3819,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm",
@@ -3632,15 +3869,21 @@
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.dll.mvfrm.rsp"
       ],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.dll.mvfrm"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll.mvfrm.rsp"
       ],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.dll.mvfrm"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "ToBuildDependencies": [
@@ -3730,6 +3973,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         92
       ],
@@ -3743,6 +3987,8 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 42154,
 =======
+=======
+>>>>>>> Stashed changes
         91
       ],
       "AllowUnexpectedOutput": true,
@@ -3754,14 +4000,20 @@
       "DisplayName": "Writing UnityEngine.UI.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 52488,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.UnityAdditionalFile.txt"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.UnityAdditionalFile.txt"
       ],
       "DebugActionIndex": 93
@@ -3776,11 +4028,15 @@
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "DebugActionIndex": 94
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.rsp",
       "DisplayName": "Writing ProceduralToolkit.ClipperLib.rsp",
@@ -3792,6 +4048,8 @@
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.rsp"
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp2",
       "DisplayName": "Writing UnityEngine.UI.rsp2",
       "ActionType": "WriteFile",
@@ -3801,11 +4059,15 @@
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp2"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "DebugActionIndex": 95
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.rsp2",
       "DisplayName": "Writing ProceduralToolkit.ClipperLib.rsp2",
@@ -3823,6 +4085,11 @@
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.dll (+2 others)",
       "DisplayName": "Csc ProceduralToolkit.ClipperLib",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.rsp2\"",
+=======
+      "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.dll (+2 others)",
+      "DisplayName": "Csc UnityEngine.UI",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp2\"",
+>>>>>>> Stashed changes
 =======
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.dll (+2 others)",
       "DisplayName": "Csc UnityEngine.UI",
@@ -3854,7 +4121,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -3901,7 +4171,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
@@ -4069,6 +4342,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/ProceduralToolkit/Runtime/ClipperLib/Clipper.cs",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll",
@@ -4092,6 +4366,8 @@
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.rsp"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -4206,6 +4482,9 @@
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -4215,6 +4494,7 @@
           "Value": "0"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 97
     },
@@ -4417,6 +4697,8 @@
         91,
         98
 =======
+=======
+>>>>>>> Stashed changes
       "CachingMode": "ByDirectInputs",
       "DebugActionIndex": 96
     },
@@ -4460,6 +4742,9 @@
       ],
       "Outputs": [
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -4467,6 +4752,7 @@
       "DebugActionIndex": 99
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.UnityAdditionalFile.txt",
       "DisplayName": "Writing ProceduralToolkit.FastNoiseLib.UnityAdditionalFile.txt",
@@ -4504,6 +4790,8 @@
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.rsp2"
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "MovedFromExtractor Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
       "DisplayName": "MovedFromExtractor Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library\\Bee\\artifacts\\mvdfrm\\Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm\" \"Library\\PackageCache\\com.unity.collab-proxy@2.5.2\\Lib\\Editor\\PlasticSCM\\Unity.Plastic.Antlr3.Runtime.dll\"",
@@ -4543,11 +4831,15 @@
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.dll.mvfrm.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "DebugActionIndex": 102
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.dll (+2 others)",
       "DisplayName": "Csc ProceduralToolkit.FastNoiseLib",
@@ -4829,6 +5121,8 @@
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.dll.mvfrm.rsp"
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.dll.mvfrm",
       "DisplayName": "MovedFromExtractorCombine UnityEngine.UI.dll",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.dll.mvfrm.rsp\"",
@@ -5036,11 +5330,15 @@
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.UnityAdditionalFile.txt"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "DebugActionIndex": 104
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "MovedFromExtractorCombine Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.dll.mvfrm",
       "DisplayName": "MovedFromExtractorCombine ProceduralToolkit.FastNoiseLib.dll",
@@ -5242,6 +5540,8 @@
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.LibTessDotNet.UnityAdditionalFile.txt"
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp",
       "DisplayName": "Writing UnityEditor.TestRunner.rsp",
       "ActionType": "WriteFile",
@@ -5264,11 +5564,15 @@
       "Inputs": [],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp2"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "DebugActionIndex": 106
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "Annotation": "WriteText Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.LibTessDotNet.rsp",
       "DisplayName": "Writing ProceduralToolkit.LibTessDotNet.rsp",
@@ -5845,10 +6149,15 @@
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
 =======
+=======
+>>>>>>> Stashed changes
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.dll (+2 others)",
       "DisplayName": "Csc UnityEditor.TestRunner",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp2\"",
       "Inputs": [
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll",
@@ -6062,6 +6371,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/UMA/Content/ShaderPackages/ShaderPackager-main/Scripts/Editor/RenderPipelineDefine.cs",
         "Assets/UMA/Content/ShaderPackages/ShaderPackager-main/Scripts/Editor/ShaderPackage.cs",
         "Assets/UMA/Content/ShaderPackages/ShaderPackager-main/Scripts/Editor/ShaderPackageImporter.cs",
@@ -6089,6 +6399,8 @@
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Shaderpackager-editor.rsp"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll",
         "Library/PackageCache/com.unity.test-framework@1.1.33/UnityEditor.TestRunner/Api/Analytics/AnalyticsReporter.cs",
@@ -6276,6 +6588,9 @@
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -6285,6 +6600,7 @@
           "Value": "0"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 115
     },
@@ -6307,6 +6623,8 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/Shaderpackager-editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Shaderpackager-editor.dll.mvfrm.rsp\"",
       "Inputs": [
 =======
+=======
+>>>>>>> Stashed changes
       "CachingMode": "ByDirectInputs",
       "DebugActionIndex": 107
     },
@@ -6362,6 +6680,9 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.dll.mvfrm.rsp\"",
       "Inputs": [
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -6451,7 +6772,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.TestRunner.dll.mvfrm.rsp"
       ],
       "Outputs": [
@@ -10344,6 +10668,9 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Shaderpackager-editor.dll.mvfrm.rsp"
       ],
@@ -10437,6 +10764,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         116
       ],
@@ -10450,6 +10778,8 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 208216,
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -10471,11 +10801,15 @@
       "DisplayName": "Writing Unity.2D.Sprite.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 466009,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.UnityAdditionalFile.txt"
       ],
@@ -10512,6 +10846,8 @@
       "DisplayName": "Csc ProceduralToolkit",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.rsp2\"",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.UnityAdditionalFile.txt"
       ],
       "DebugActionIndex": 157
@@ -10546,6 +10882,9 @@
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.dll (+2 others)",
       "DisplayName": "Csc Unity.2D.Sprite.Editor",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.rsp2\"",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Inputs": [
         "Assets/Interop.SpeechLib.dll",
@@ -10573,7 +10912,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -10662,7 +11004,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/Microsoft.Win32.Primitives.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/Facades/netstandard.dll",
@@ -12438,6 +12783,9 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx/System.ComponentModel.Composition.dll",
@@ -12563,6 +12911,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.LibTessDotNet.ref.dll",
@@ -12662,6 +13011,8 @@
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.rsp"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -12700,6 +13051,9 @@
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -12709,6 +13063,7 @@
           "Value": "0"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 121
     },
@@ -12731,6 +13086,8 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.dll.mvfrm.rsp\"",
       "Inputs": [
 =======
+=======
+>>>>>>> Stashed changes
       "CachingMode": "ByDirectInputs",
       "DebugActionIndex": 178
     },
@@ -15663,6 +16020,9 @@
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -15751,7 +16111,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp"
@@ -23665,6 +24028,9 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.dll.mvfrm.rsp"
@@ -23759,6 +24125,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         122
       ],
@@ -23766,6 +24133,8 @@
       "Env": [],
       "DebugActionIndex": 123
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -23778,6 +24147,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 288
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -23785,7 +24157,11 @@
       "DisplayName": "Writing UMA_Core.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 253873,
+=======
+      "PayloadOffset": 1531500,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 1531500,
 >>>>>>> Stashed changes
@@ -23796,7 +24172,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 124
+=======
+      "DebugActionIndex": 289
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 289
 >>>>>>> Stashed changes
@@ -23806,8 +24186,13 @@
       "DisplayName": "Writing UMA_Core.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 254010,
       "PayloadLength": 45090,
+=======
+      "PayloadOffset": 1531637,
+      "PayloadLength": 45875,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 1531637,
       "PayloadLength": 45875,
@@ -23818,7 +24203,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 125
+=======
+      "DebugActionIndex": 290
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 290
 >>>>>>> Stashed changes
@@ -23828,7 +24217,11 @@
       "DisplayName": "Writing UMA_Core.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 299183,
+=======
+      "PayloadOffset": 1577595,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 1577595,
 >>>>>>> Stashed changes
@@ -23839,7 +24232,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 126
+=======
+      "DebugActionIndex": 291
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 291
 >>>>>>> Stashed changes
@@ -23874,7 +24271,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -23921,7 +24321,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
@@ -24089,8 +24492,11 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -24103,6 +24509,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/UMA/Core/Decals/Scripts/Decal.cs",
         "Assets/UMA/Core/Decals/Scripts/DecalDefinition.cs",
@@ -24301,6 +24710,7 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         4,
         124,
         125,
@@ -24311,6 +24721,8 @@
         124,
         126
 =======
+=======
+>>>>>>> Stashed changes
         96,
         115,
         123,
@@ -24323,6 +24735,9 @@
       "ToUseDependencies": [
         289,
         291
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -24336,8 +24751,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 127
 =======
+=======
+>>>>>>> Stashed changes
       "DebugActionIndex": 292
     },
     {
@@ -24357,6 +24775,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 293
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -24364,8 +24785,13 @@
       "DisplayName": "Writing UMA_Core.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 299275,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 1577687,
+      "PayloadLength": 8005,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 1577687,
       "PayloadLength": 8005,
@@ -24376,7 +24802,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 128
+=======
+      "DebugActionIndex": 294
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 294
 >>>>>>> Stashed changes
@@ -24387,6 +24817,12 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+        "Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_733236CB90539738.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/mvdfrm/Unity.Timeline.ref.dll_733236CB90539738.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
@@ -24436,7 +24872,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm",
@@ -24482,12 +24921,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.dll.mvfrm.rsp"
@@ -24582,6 +25027,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         128
       ],
@@ -24595,6 +25041,8 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 306830,
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -24614,11 +25062,15 @@
       "DisplayName": "Writing Unity.AI.Navigation.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 1585812,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Editor.UnityAdditionalFile.txt"
       ],
@@ -24655,6 +25107,8 @@
       "DisplayName": "Csc ProceduralToolkit.Editor",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Editor.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Editor.rsp2\"",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.UnityAdditionalFile.txt"
       ],
       "DebugActionIndex": 296
@@ -24689,6 +25143,9 @@
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.dll (+2 others)",
       "DisplayName": "Csc Unity.AI.Navigation.Editor",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.rsp2\"",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Inputs": [
         "Assets/Interop.SpeechLib.dll",
@@ -24716,7 +25173,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -24931,6 +25391,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ref.dll",
         "Assets/ProceduralToolkit/Editor/ColorHSVDrawer.cs",
         "Assets/ProceduralToolkit/Editor/MeshFilterExtension.cs",
@@ -24959,6 +25420,8 @@
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Editor.rsp"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -25011,6 +25474,9 @@
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -25020,6 +25486,7 @@
           "Value": "0"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 133
     },
@@ -25042,6 +25509,8 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Editor.dll.mvfrm.rsp\"",
       "Inputs": [
 =======
+=======
+>>>>>>> Stashed changes
       "CachingMode": "ByDirectInputs",
       "DebugActionIndex": 299
     },
@@ -25105,6 +25574,9 @@
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -25193,7 +25665,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
@@ -34599,6 +35074,9 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Editor.dll.mvfrm.rsp"
@@ -34693,6 +35171,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         134
       ],
@@ -34700,6 +35179,8 @@
       "Env": [],
       "DebugActionIndex": 135
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -34715,6 +35196,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 408
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -34722,7 +35206,11 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 349033,
+=======
+      "PayloadOffset": 2369220,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2369220,
 >>>>>>> Stashed changes
@@ -34733,7 +35221,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 136
+=======
+      "DebugActionIndex": 409
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 409
 >>>>>>> Stashed changes
@@ -34743,8 +35235,13 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 349187,
       "PayloadLength": 37076,
+=======
+      "PayloadOffset": 2369374,
+      "PayloadLength": 37795,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2369374,
       "PayloadLength": 37795,
@@ -34755,7 +35252,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 137
+=======
+      "DebugActionIndex": 410
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 410
 >>>>>>> Stashed changes
@@ -34765,7 +35266,11 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 386363,
+=======
+      "PayloadOffset": 2407269,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2407269,
 >>>>>>> Stashed changes
@@ -34776,7 +35281,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 138
+=======
+      "DebugActionIndex": 411
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 411
 >>>>>>> Stashed changes
@@ -34811,7 +35320,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -34858,7 +35370,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
@@ -35026,7 +35541,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -35035,12 +35553,20 @@
         "Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll",
         "Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/unityplastic.dll",
         "Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.LibTessDotNet.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ref.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+        "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
+        "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
@@ -35113,6 +35639,7 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         97,
         103,
         109,
@@ -35126,6 +35653,8 @@
         136,
         138
 =======
+=======
+>>>>>>> Stashed changes
         96,
         115,
         136,
@@ -35140,6 +35669,9 @@
       "ToUseDependencies": [
         409,
         411
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -35153,7 +35685,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 139
+=======
+      "DebugActionIndex": 412
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 412
 >>>>>>> Stashed changes
@@ -35163,8 +35699,13 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 386472,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 2407378,
+      "PayloadLength": 7929,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2407378,
       "PayloadLength": 7929,
@@ -35175,7 +35716,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 140
+=======
+      "DebugActionIndex": 413
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 413
 >>>>>>> Stashed changes
@@ -35186,6 +35731,11 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
@@ -35234,7 +35784,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm",
@@ -35280,12 +35833,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.dll.mvfrm.rsp"
@@ -35380,6 +35939,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         140
       ],
@@ -35393,6 +35953,8 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 394014,
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -35411,11 +35973,15 @@
       "DisplayName": "Writing Purchasing.Common.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 2415418,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Content.UnityAdditionalFile.txt"
       ],
@@ -35452,6 +36018,8 @@
       "DisplayName": "Csc UMA_Content",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Content.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Content.rsp2\"",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.UnityAdditionalFile.txt"
       ],
       "DebugActionIndex": 415
@@ -35486,6 +36054,9 @@
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.dll (+2 others)",
       "DisplayName": "Csc Purchasing.Common",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.rsp2\"",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Inputs": [
         "Assets/Interop.SpeechLib.dll",
@@ -35513,7 +36084,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -35560,7 +36134,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
@@ -35728,6 +36305,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.ref.dll",
         "Assets/UMA/Content/Example/AdditionalSlots/CapsuleCollider/CapsuleColliderSlotScript.cs",
         "Assets/UMA/Content/Example/AdditionalSlots/Expressions/ExpressionSlotScript.cs",
@@ -35757,6 +36335,8 @@
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Content.rsp"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -35798,6 +36378,9 @@
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -35807,6 +36390,7 @@
           "Value": "0"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 145
     },
@@ -35829,6 +36413,8 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Content.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Content.dll.mvfrm.rsp\"",
       "Inputs": [
 =======
+=======
+>>>>>>> Stashed changes
       "CachingMode": "ByDirectInputs",
       "DebugActionIndex": 418
     },
@@ -35872,6 +36458,9 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Services.Core.ref.dll_20594DC17355841E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -35917,7 +36506,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm",
@@ -35963,7 +36555,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
@@ -36511,6 +37106,9 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Content.dll.mvfrm.rsp"
@@ -36605,6 +37203,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         146
       ],
@@ -36612,6 +37211,8 @@
       "Env": [],
       "DebugActionIndex": 147
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -36624,6 +37225,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 427
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -36631,7 +37235,11 @@
       "DisplayName": "Writing UMA_Core_Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 435386,
+=======
+      "PayloadOffset": 2500873,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2500873,
 >>>>>>> Stashed changes
@@ -36642,7 +37250,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 148
+=======
+      "DebugActionIndex": 428
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 428
 >>>>>>> Stashed changes
@@ -36652,8 +37264,13 @@
       "DisplayName": "Writing UMA_Core_Editor.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 435530,
       "PayloadLength": 42756,
+=======
+      "PayloadOffset": 2501017,
+      "PayloadLength": 43895,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2501017,
       "PayloadLength": 43895,
@@ -36664,7 +37281,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 149
+=======
+      "DebugActionIndex": 429
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 429
 >>>>>>> Stashed changes
@@ -36674,7 +37295,11 @@
       "DisplayName": "Writing UMA_Core_Editor.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 478376,
+=======
+      "PayloadOffset": 2545002,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2545002,
 >>>>>>> Stashed changes
@@ -36685,7 +37310,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 150
+=======
+      "DebugActionIndex": 430
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 430
 >>>>>>> Stashed changes
@@ -36720,7 +37349,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -36935,9 +37567,12 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -36954,6 +37589,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/UMA/Core/Editor/CustomIndexers/UMAIndexers.cs",
         "Assets/UMA/Core/Editor/Decals/DecalEditor.cs",
@@ -37102,6 +37740,7 @@
       "ToBuildDependencies": [
         4,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         127,
         148,
         149,
@@ -37112,6 +37751,8 @@
         148,
         150
 =======
+=======
+>>>>>>> Stashed changes
         96,
         107,
         115,
@@ -37126,6 +37767,9 @@
       "ToUseDependencies": [
         428,
         430
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -37139,7 +37783,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 151
+=======
+      "DebugActionIndex": 431
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 431
 >>>>>>> Stashed changes
@@ -37149,8 +37797,13 @@
       "DisplayName": "Writing UMA_Core_Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 478475,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 2545101,
+      "PayloadLength": 8258,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2545101,
       "PayloadLength": 8258,
@@ -37161,7 +37814,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 152
+=======
+      "DebugActionIndex": 432
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 432
 >>>>>>> Stashed changes
@@ -37172,12 +37829,18 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Mathematics.ref.dll_09002A919DF91B75.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.TestRunner.ref.dll_3CEDFFDC50464BDC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -37266,12 +37929,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.dll.mvfrm.rsp"
@@ -37366,6 +38035,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         152
       ],
@@ -37373,6 +38043,8 @@
       "Env": [],
       "DebugActionIndex": 153
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -37389,6 +38061,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 433
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -37396,7 +38071,11 @@
       "DisplayName": "Writing UMA_Examples.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 486018,
+=======
+      "PayloadOffset": 2553465,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2553465,
 >>>>>>> Stashed changes
@@ -37407,7 +38086,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 154
+=======
+      "DebugActionIndex": 434
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 434
 >>>>>>> Stashed changes
@@ -37417,8 +38100,13 @@
       "DisplayName": "Writing UMA_Examples.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 486159,
       "PayloadLength": 40047,
+=======
+      "PayloadOffset": 2553606,
+      "PayloadLength": 40766,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2553606,
       "PayloadLength": 40766,
@@ -37429,7 +38117,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 155
+=======
+      "DebugActionIndex": 435
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 435
 >>>>>>> Stashed changes
@@ -37439,7 +38131,11 @@
       "DisplayName": "Writing UMA_Examples.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 526293,
+=======
+      "PayloadOffset": 2594459,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2594459,
 >>>>>>> Stashed changes
@@ -37450,7 +38146,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 156
+=======
+      "DebugActionIndex": 436
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 436
 >>>>>>> Stashed changes
@@ -37485,7 +38185,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -37532,7 +38235,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
@@ -37700,8 +38406,11 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -37713,6 +38422,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/UMA/Examples/Blendshape Examples/Scripts/BlendShapeDnaSlider.cs",
         "Assets/UMA/Examples/DynamicCharacterSystem Examples/Assets/GUI/Scripts/ColorEffector.cs",
@@ -37815,6 +38527,7 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         127,
         154,
         155,
@@ -37825,6 +38538,8 @@
         154,
         156
 =======
+=======
+>>>>>>> Stashed changes
         96,
         115,
         292,
@@ -37836,6 +38551,9 @@
       "ToUseDependencies": [
         434,
         436
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -37849,7 +38567,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 157
+=======
+      "DebugActionIndex": 437
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 437
 >>>>>>> Stashed changes
@@ -37859,8 +38581,13 @@
       "DisplayName": "Writing UMA_Examples.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 526389,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 2594555,
+      "PayloadLength": 7929,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 2594555,
       "PayloadLength": 7929,
@@ -37871,7 +38598,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 158
+=======
+      "DebugActionIndex": 438
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 438
 >>>>>>> Stashed changes
@@ -37882,6 +38613,11 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+        "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
@@ -37930,7 +38666,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm",
@@ -37976,12 +38715,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.dll.mvfrm.rsp"
@@ -38076,6 +38821,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         158
       ],
@@ -38089,6 +38835,8 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 533962,
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -38107,11 +38855,15 @@
       "DisplayName": "Writing Unity.AI.Navigation.Updater.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 2602605,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Buildings.Editor.UnityAdditionalFile.txt"
       ],
@@ -38148,6 +38900,8 @@
       "DisplayName": "Csc ProceduralToolkit.Samples.Buildings.Editor",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Buildings.Editor.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Buildings.Editor.rsp2\"",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Updater.UnityAdditionalFile.txt"
       ],
       "DebugActionIndex": 440
@@ -38182,6 +38936,9 @@
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Updater.dll (+2 others)",
       "DisplayName": "Csc Unity.AI.Navigation.Updater",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Updater.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Updater.rsp2\"",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Inputs": [
         "Assets/Interop.SpeechLib.dll",
@@ -38209,7 +38966,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -38424,6 +39184,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.ref.dll",
         "Assets/ProceduralToolkit/Samples/Buildings/Editor/BuildingGeneratorComponentEditor.cs",
@@ -38452,6 +39213,8 @@
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Buildings.Editor.rsp"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -38501,6 +39264,9 @@
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Updater.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -38510,6 +39276,7 @@
           "Value": "0"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 163
     },
@@ -38532,6 +39299,8 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Buildings.Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Buildings.Editor.dll.mvfrm.rsp\"",
       "Inputs": [
 =======
+=======
+>>>>>>> Stashed changes
       "CachingMode": "ByDirectInputs",
       "DebugActionIndex": 443
     },
@@ -38578,6 +39347,9 @@
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -38666,7 +39438,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
@@ -46566,6 +47341,9 @@
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Buildings.Editor.dll.mvfrm.rsp"
@@ -46660,6 +47438,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         164
       ],
@@ -46667,6 +47446,8 @@
       "Env": [],
       "DebugActionIndex": 165
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -46682,6 +47463,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 534
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -46689,7 +47473,11 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.Chairs.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 576324,
+=======
+      "PayloadOffset": 3268314,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3268314,
 >>>>>>> Stashed changes
@@ -46700,7 +47488,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Chairs.Editor.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 166
+=======
+      "DebugActionIndex": 535
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 535
 >>>>>>> Stashed changes
@@ -46710,8 +47502,13 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.Chairs.Editor.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 576492,
       "PayloadLength": 34275,
+=======
+      "PayloadOffset": 3268482,
+      "PayloadLength": 35345,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3268482,
       "PayloadLength": 35345,
@@ -46722,7 +47519,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Chairs.Editor.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 167
+=======
+      "DebugActionIndex": 536
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 536
 >>>>>>> Stashed changes
@@ -46732,7 +47533,11 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.Chairs.Editor.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 610881,
+=======
+      "PayloadOffset": 3303941,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3303941,
 >>>>>>> Stashed changes
@@ -46743,7 +47548,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Chairs.Editor.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 168
+=======
+      "DebugActionIndex": 537
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 537
 >>>>>>> Stashed changes
@@ -46778,7 +47587,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -46993,9 +47805,12 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -47011,6 +47826,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/ProceduralToolkit/Samples/Chairs/Editor/ChairGeneratorConfiguratorEditor.cs",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
@@ -47024,6 +47842,7 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         121,
         139,
         166,
@@ -47035,6 +47854,8 @@
         166,
         168
 =======
+=======
+>>>>>>> Stashed changes
         4,
         96,
         107,
@@ -47049,6 +47870,9 @@
       "ToUseDependencies": [
         535,
         537
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -47062,7 +47886,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 169
+=======
+      "DebugActionIndex": 538
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 538
 >>>>>>> Stashed changes
@@ -47072,8 +47900,13 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.Chairs.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 611004,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 3304064,
+      "PayloadLength": 8179,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3304064,
       "PayloadLength": 8179,
@@ -47084,7 +47917,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Chairs.Editor.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 170
+=======
+      "DebugActionIndex": 539
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 539
 >>>>>>> Stashed changes
@@ -47095,11 +47932,17 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Chairs.Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Chairs.Editor.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.TestRunner.ref.dll_3CEDFFDC50464BDC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -47188,12 +48031,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.Chairs.Editor.dll.mvfrm.rsp"
@@ -47288,6 +48137,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         170
       ],
@@ -47295,6 +48145,8 @@
       "Env": [],
       "DebugActionIndex": 171
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -47310,6 +48162,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 540
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -47317,7 +48172,11 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.LowPolyTerrain.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 618582,
+=======
+      "PayloadOffset": 3312384,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3312384,
 >>>>>>> Stashed changes
@@ -47328,7 +48187,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 172
+=======
+      "DebugActionIndex": 541
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 541
 >>>>>>> Stashed changes
@@ -47338,8 +48201,13 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.LowPolyTerrain.Editor.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 618758,
       "PayloadLength": 34302,
+=======
+      "PayloadOffset": 3312560,
+      "PayloadLength": 35372,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3312560,
       "PayloadLength": 35372,
@@ -47350,7 +48218,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 173
+=======
+      "DebugActionIndex": 542
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 542
 >>>>>>> Stashed changes
@@ -47360,7 +48232,11 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.LowPolyTerrain.Editor.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 653182,
+=======
+      "PayloadOffset": 3348054,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3348054,
 >>>>>>> Stashed changes
@@ -47371,7 +48247,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 174
+=======
+      "DebugActionIndex": 543
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 543
 >>>>>>> Stashed changes
@@ -47406,7 +48286,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -47621,9 +48504,12 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -47639,6 +48525,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/ProceduralToolkit/Samples/LowPolyTerrain/Editor/LowPolyTerrainExampleEditor.cs",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll",
@@ -47652,6 +48541,7 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         121,
         139,
         172,
@@ -47663,6 +48553,8 @@
         172,
         174
 =======
+=======
+>>>>>>> Stashed changes
         4,
         96,
         107,
@@ -47677,6 +48569,9 @@
       "ToUseDependencies": [
         541,
         543
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -47690,7 +48585,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 175
+=======
+      "DebugActionIndex": 544
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 544
 >>>>>>> Stashed changes
@@ -47700,8 +48599,13 @@
       "DisplayName": "Writing ProceduralToolkit.Samples.LowPolyTerrain.Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 653313,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 3348185,
+      "PayloadLength": 8179,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3348185,
       "PayloadLength": 8179,
@@ -47712,7 +48616,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 176
+=======
+      "DebugActionIndex": 545
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 545
 >>>>>>> Stashed changes
@@ -47723,11 +48631,17 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.TestRunner.ref.dll_3CEDFFDC50464BDC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -47816,12 +48730,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.dll.mvfrm.rsp"
@@ -47916,6 +48836,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         176
       ],
@@ -47923,6 +48844,8 @@
       "Env": [],
       "DebugActionIndex": 177
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -47938,6 +48861,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 546
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -47945,7 +48871,11 @@
       "DisplayName": "Writing UMA_Examples_Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 660863,
+=======
+      "PayloadOffset": 3356477,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3356477,
 >>>>>>> Stashed changes
@@ -47956,7 +48886,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 178
+=======
+      "DebugActionIndex": 547
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 547
 >>>>>>> Stashed changes
@@ -47966,8 +48900,13 @@
       "DisplayName": "Writing UMA_Examples_Editor.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 661011,
       "PayloadLength": 34559,
+=======
+      "PayloadOffset": 3356625,
+      "PayloadLength": 35629,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3356625,
       "PayloadLength": 35629,
@@ -47978,7 +48917,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 179
+=======
+      "DebugActionIndex": 548
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 548
 >>>>>>> Stashed changes
@@ -47988,7 +48931,11 @@
       "DisplayName": "Writing UMA_Examples_Editor.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 695664,
+=======
+      "PayloadOffset": 3392348,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3392348,
 >>>>>>> Stashed changes
@@ -47999,7 +48946,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 180
+=======
+      "DebugActionIndex": 549
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 549
 >>>>>>> Stashed changes
@@ -48034,7 +48985,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -48249,9 +49203,12 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Core_Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -48267,6 +49224,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/UMA/Examples/Editor/DynamicCharacterSystem Examples/PhotoBoothInspector.cs",
         "Assets/UMA/Examples/Editor/Jiggle/JiggleBreastEditor.cs",
@@ -48286,6 +49246,7 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         151,
         157,
         178,
@@ -48297,6 +49258,8 @@
         178,
         180
 =======
+=======
+>>>>>>> Stashed changes
         4,
         96,
         107,
@@ -48311,6 +49274,9 @@
       "ToUseDependencies": [
         547,
         549
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -48324,7 +49290,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 181
+=======
+      "DebugActionIndex": 550
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 550
 >>>>>>> Stashed changes
@@ -48334,8 +49304,13 @@
       "DisplayName": "Writing UMA_Examples_Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 695767,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 3392451,
+      "PayloadLength": 8179,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 3392451,
       "PayloadLength": 8179,
@@ -48346,7 +49321,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 182
+=======
+      "DebugActionIndex": 551
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 551
 >>>>>>> Stashed changes
@@ -48357,11 +49336,17 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.TestRunner.ref.dll_3CEDFFDC50464BDC.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -48450,12 +49435,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.dll.mvfrm.rsp"
@@ -48549,6 +49540,7 @@
         88,
         89,
         90,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         91,
         182
@@ -49103,6 +50095,8 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 745533,
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -49124,11 +50118,15 @@
       "DisplayName": "Writing Unity.Services.Core.Configuration.Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 3400764,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.UnityAdditionalFile.txt"
       ],
@@ -49165,6 +50163,8 @@
       "DisplayName": "Csc Assembly-CSharp-Editor-firstpass",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.rsp2\"",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Services.Core.Configuration.Editor.UnityAdditionalFile.txt"
       ],
       "DebugActionIndex": 553
@@ -49199,6 +50199,9 @@
       "Annotation": "Csc Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Services.Core.Configuration.Editor.dll (+2 others)",
       "DisplayName": "Csc Unity.Services.Core.Configuration.Editor",
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\NetCoreRuntime\\dotnet.exe\" exec \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/DotNetSdkRoslyn/csc.dll\" /nostdlib /noconfig /shared \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Services.Core.Configuration.Editor.rsp\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Services.Core.Configuration.Editor.rsp2\"",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "Inputs": [
         "Assets/Interop.SpeechLib.dll",
@@ -49226,7 +50229,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -49441,6 +50447,7 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-firstpass.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.ref.dll",
@@ -49498,6 +50505,8 @@
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.rsp"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -49551,6 +50560,9 @@
       ],
       "FrontendResponseFiles": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Services.Core.Configuration.Editor.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "AllowUnexpectedOutput": true,
@@ -49560,6 +50572,7 @@
           "Value": "0"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
       "DebugActionIndex": 193
     },
@@ -49582,6 +50595,8 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp\"",
       "Inputs": [
 =======
+=======
+>>>>>>> Stashed changes
       "CachingMode": "ByDirectInputs",
       "DebugActionIndex": 556
     },
@@ -49628,6 +50643,9 @@
         "Library/Bee/artifacts/mvdfrm/UnityEditor.UI.ref.dll_5DAE2CC8CF4B8C9E.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -49716,12 +50734,15 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.dll.mvfrm.rsp"
       ],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.dll.mvfrm"
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
@@ -49732,6 +50753,9 @@
       ],
       "Outputs": [
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Services.Core.Configuration.Editor.dll.mvfrm"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "ToBuildDependencies": [
@@ -49821,6 +50845,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         194
       ],
@@ -49834,6 +50859,8 @@
       "ActionType": "WriteFile",
       "PayloadOffset": 788875,
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -49858,11 +50885,15 @@
       "DisplayName": "Writing Unity.Services.Core.Registration.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
       "PayloadOffset": 3446166,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       "PayloadLength": 55,
       "PayloadDebugContentSnippet": "C:\\Users\\jerma\\Documents\\Airpo",
       "Inputs": [],
       "Outputs": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.UnityAdditionalFile.txt"
       ],
@@ -49901,6 +50932,8 @@
       "Inputs": [
         "Assets/Interop.SpeechLib.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Services.Core.Registration.UnityAdditionalFile.txt"
       ],
       "DebugActionIndex": 560
@@ -49939,6 +50972,9 @@
         "Assets/Interop.SpeechLib.dll",
         "Assets/NuGet/Editor/NugetForUnity.dll",
         "Assets/NuGet/Editor/NuGetForUnity.PluginAPI.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/Packages/AsyncIO.0.1.69/lib/netstandard2.0/AsyncIO.dll",
         "Assets/Packages/BouncyCastle.Cryptography.2.4.0/lib/netstandard2.0/BouncyCastle.Cryptography.dll",
@@ -49959,14 +50995,20 @@
         "Assets/Packages/System.ServiceModel.Primitives.4.9.0/lib/netstandard2.0/System.ServiceModel.Primitives.dll",
         "Assets/Packages/System.ServiceModel.Syndication.9.0.0/lib/netstandard2.0/System.ServiceModel.Syndication.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Editor/SALSA-LipSync-Editor.dll",
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll",
@@ -50011,7 +51053,10 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll",
@@ -50178,8 +51223,11 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
@@ -65999,6 +67047,9 @@
         "Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Analytics.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-firstpass.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.ref.dll",
@@ -66011,6 +67062,10 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.ref.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+        "Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.ref.dll",
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.ref.dll",
 >>>>>>> Stashed changes
@@ -66021,7 +67076,10 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.ref.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Tilemap.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll",
@@ -66862,6 +67920,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.SpatialTracking.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/AirportAssets/AirportBlock.cs",
         "Assets/AirportAssets/ResponsePanel.cs",
@@ -66974,6 +68035,7 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         4,
         97,
         103,
@@ -67000,6 +68062,8 @@
         196,
         198
 =======
+=======
+>>>>>>> Stashed changes
         96,
         115,
         123,
@@ -67082,6 +68146,9 @@
       "ToUseDependencies": [
         768,
         770
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -67095,7 +68162,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 199
+=======
+      "DebugActionIndex": 771
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 771
 >>>>>>> Stashed changes
@@ -67105,8 +68176,13 @@
       "DisplayName": "Writing Assembly-CSharp.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 828172,
       "PayloadLength": 7263,
+=======
+      "PayloadOffset": 4734847,
+      "PayloadLength": 12309,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 4734847,
       "PayloadLength": 12309,
@@ -67117,7 +68193,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 200
+=======
+      "DebugActionIndex": 772
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 772
 >>>>>>> Stashed changes
@@ -67128,7 +68208,10 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.2D.Sprite.Editor.ref.dll_0169DD889AE82A51.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.2D.Tilemap.Editor.ref.dll_217A589FE1735158.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll_E86391A30E30A641.mvfrm",
@@ -67184,6 +68267,9 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.SpatialTracking.ref.dll_42E75335C25EB99C.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XR.LegacyInputHelpers.ref.dll_1836C6475EC0BAA9.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.DeviceSimulatorModule.dll_99ABAFE06C6098BA.mvfrm",
@@ -67228,7 +68314,10 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/mvdfrm/UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEngine.ParticleSystemModule.dll_A6A29673BDD30F48.mvfrm",
@@ -67273,6 +68362,12 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.WindModule.dll_0D2BCEC6A4FC4D4B.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+        "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
+        "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
@@ -67369,6 +68464,7 @@
         88,
         89,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         90,
         200
       ],
@@ -67376,6 +68472,8 @@
       "Env": [],
       "DebugActionIndex": 201
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -67439,6 +68537,9 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
       "DebugActionIndex": 773
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -67446,7 +68547,11 @@
       "DisplayName": "Writing Assembly-CSharp-Editor.UnityAdditionalFile.txt",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 835551,
+=======
+      "PayloadOffset": 4747272,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 4747272,
 >>>>>>> Stashed changes
@@ -67457,7 +68562,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor.UnityAdditionalFile.txt"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 202
+=======
+      "DebugActionIndex": 774
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 774
 >>>>>>> Stashed changes
@@ -67467,8 +68576,13 @@
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 835702,
       "PayloadLength": 36075,
+=======
+      "PayloadOffset": 4747423,
+      "PayloadLength": 41472,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 4747423,
       "PayloadLength": 41472,
@@ -67479,7 +68593,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 203
+=======
+      "DebugActionIndex": 775
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 775
 >>>>>>> Stashed changes
@@ -67489,7 +68607,11 @@
       "DisplayName": "Writing Assembly-CSharp-Editor.rsp2",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 871874,
+=======
+      "PayloadOffset": 4788992,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 4788992,
 >>>>>>> Stashed changes
@@ -67500,7 +68622,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor.rsp2"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 204
+=======
+      "DebugActionIndex": 776
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 776
 >>>>>>> Stashed changes
@@ -67535,7 +68661,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll",
@@ -67750,8 +68879,11 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll",
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
@@ -67763,6 +68895,9 @@
         "Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Analytics.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor-firstpass.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-firstpass.ref.dll",
@@ -67777,6 +68912,10 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.LowPolyTerrain.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.Samples.ref.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+        "Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.ref.dll",
+>>>>>>> Stashed changes
 =======
         "Library/Bee/artifacts/1900b0aEDbg.dag/Purchasing.Common.ref.dll",
 >>>>>>> Stashed changes
@@ -67787,7 +68926,10 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UMA_Examples_Editor.ref.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Sprite.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.2D.Tilemap.Editor.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll",
@@ -67845,6 +68987,9 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.TestRunner.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll",
         "Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/CTI Runtime Components/Scripts/Editor/CTI_AdvancedEdgeFluttering.cs",
         "Assets/Conifers [BOTD]/Render Pipeline Support/Built-in RP/CTI Runtime Components/Scripts/Editor/CTI_DetailsEnum.cs",
@@ -67865,6 +69010,7 @@
       ],
       "ToBuildDependencies": [
         4,
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         97,
         103,
@@ -67893,6 +69039,8 @@
         202,
         204
 =======
+=======
+>>>>>>> Stashed changes
         96,
         107,
         115,
@@ -67978,6 +69126,9 @@
       "ToUseDependencies": [
         774,
         776
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -67991,7 +69142,11 @@
         }
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 205
+=======
+      "DebugActionIndex": 777
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 777
 >>>>>>> Stashed changes
@@ -68001,8 +69156,13 @@
       "DisplayName": "Writing Assembly-CSharp-Editor.dll.mvfrm.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 871980,
       "PayloadLength": 7437,
+=======
+      "PayloadOffset": 4789098,
+      "PayloadLength": 12906,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 4789098,
       "PayloadLength": 12906,
@@ -68013,7 +69173,11 @@
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 206
+=======
+      "DebugActionIndex": 778
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 778
 >>>>>>> Stashed changes
@@ -68024,7 +69188,10 @@
       "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.51f1\\Editor\\Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe\" \"Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor.dll.mvfrm\" \"@Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp\"",
       "Inputs": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.2D.Sprite.Editor.ref.dll_0169DD889AE82A51.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.2D.Tilemap.Editor.ref.dll_217A589FE1735158.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll_E86391A30E30A641.mvfrm",
@@ -68082,6 +69249,9 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.TestRunner.ref.dll_090C4A8A7C09A9C7.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XR.LegacyInputHelpers.ref.dll_1836C6475EC0BAA9.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/UnityEditor.Graphs.dll_C06798C0349E76E9.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.CoreModule.dll_73BC204B6BC063B7.mvfrm",
@@ -68170,12 +69340,18 @@
         "Library/Bee/artifacts/mvdfrm/UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm",
         "Library/Bee/artifacts/mvdfrm/UnityEditor.WindowsStandalone.Extensions.dll_5BDA99311D90C859.mvfrm",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_1B6116B393E72286.mvfrm",
         "Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_7880F7755F74374F.mvfrm",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/ScriptUpdater/ApiUpdater.MovedFromExtractor.exe",
         "Library/Bee/artifacts/1900b0aEDbg.dag/Assembly-CSharp-Editor.dll.mvfrm.rsp"
@@ -68270,6 +69446,7 @@
         89,
         90,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         91,
         206
       ],
@@ -68277,6 +69454,8 @@
       "Env": [],
       "DebugActionIndex": 207
 =======
+=======
+>>>>>>> Stashed changes
         97,
         98,
         99,
@@ -68555,6 +69734,9 @@
         115
       ],
       "DebugActionIndex": 793
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -68569,9 +69751,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         4
       ],
       "DebugActionIndex": 208
+=======
+        123
+      ],
+      "DebugActionIndex": 794
+>>>>>>> Stashed changes
 =======
         123
       ],
@@ -68590,10 +69778,13 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         4
       ],
       "DebugActionIndex": 209
 =======
+=======
+>>>>>>> Stashed changes
         123
       ],
       "DebugActionIndex": 795
@@ -68627,6 +69818,9 @@
         130
       ],
       "DebugActionIndex": 797
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -68641,9 +69835,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         97
       ],
       "DebugActionIndex": 210
+=======
+        136
+      ],
+      "DebugActionIndex": 798
+>>>>>>> Stashed changes
 =======
         136
       ],
@@ -68662,9 +69862,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         97
       ],
       "DebugActionIndex": 211
+=======
+        136
+      ],
+      "DebugActionIndex": 799
+>>>>>>> Stashed changes
 =======
         136
       ],
@@ -68683,9 +69889,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         103
       ],
       "DebugActionIndex": 212
+=======
+        142
+      ],
+      "DebugActionIndex": 800
+>>>>>>> Stashed changes
 =======
         142
       ],
@@ -68704,9 +69916,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         103
       ],
       "DebugActionIndex": 213
+=======
+        142
+      ],
+      "DebugActionIndex": 801
+>>>>>>> Stashed changes
 =======
         142
       ],
@@ -68725,9 +69943,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         109
       ],
       "DebugActionIndex": 214
+=======
+        148
+      ],
+      "DebugActionIndex": 802
+>>>>>>> Stashed changes
 =======
         148
       ],
@@ -68746,9 +69970,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         109
       ],
       "DebugActionIndex": 215
+=======
+        148
+      ],
+      "DebugActionIndex": 803
+>>>>>>> Stashed changes
 =======
         148
       ],
@@ -68767,9 +69997,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         115
       ],
       "DebugActionIndex": 216
+=======
+        154
+      ],
+      "DebugActionIndex": 804
+>>>>>>> Stashed changes
 =======
         154
       ],
@@ -68788,10 +70024,13 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         115
       ],
       "DebugActionIndex": 217
 =======
+=======
+>>>>>>> Stashed changes
         154
       ],
       "DebugActionIndex": 805
@@ -69335,6 +70574,9 @@
         280
       ],
       "DebugActionIndex": 841
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -69349,9 +70591,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         121
       ],
       "DebugActionIndex": 218
+=======
+        286
+      ],
+      "DebugActionIndex": 842
+>>>>>>> Stashed changes
 =======
         286
       ],
@@ -69370,9 +70618,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         121
       ],
       "DebugActionIndex": 219
+=======
+        286
+      ],
+      "DebugActionIndex": 843
+>>>>>>> Stashed changes
 =======
         286
       ],
@@ -69391,9 +70645,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         127
       ],
       "DebugActionIndex": 220
+=======
+        292
+      ],
+      "DebugActionIndex": 844
+>>>>>>> Stashed changes
 =======
         292
       ],
@@ -69412,10 +70672,13 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         127
       ],
       "DebugActionIndex": 221
 =======
+=======
+>>>>>>> Stashed changes
         292
       ],
       "DebugActionIndex": 845
@@ -69899,6 +71162,9 @@
         400
       ],
       "DebugActionIndex": 877
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -69913,9 +71179,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         133
       ],
       "DebugActionIndex": 222
+=======
+        406
+      ],
+      "DebugActionIndex": 878
+>>>>>>> Stashed changes
 =======
         406
       ],
@@ -69934,9 +71206,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         133
       ],
       "DebugActionIndex": 223
+=======
+        406
+      ],
+      "DebugActionIndex": 879
+>>>>>>> Stashed changes
 =======
         406
       ],
@@ -69955,9 +71233,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         139
       ],
       "DebugActionIndex": 224
+=======
+        412
+      ],
+      "DebugActionIndex": 880
+>>>>>>> Stashed changes
 =======
         412
       ],
@@ -69976,10 +71260,13 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         139
       ],
       "DebugActionIndex": 225
 =======
+=======
+>>>>>>> Stashed changes
         412
       ],
       "DebugActionIndex": 881
@@ -70013,6 +71300,9 @@
         418
       ],
       "DebugActionIndex": 883
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -70027,9 +71317,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         145
       ],
       "DebugActionIndex": 226
+=======
+        425
+      ],
+      "DebugActionIndex": 884
+>>>>>>> Stashed changes
 =======
         425
       ],
@@ -70048,9 +71344,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         145
       ],
       "DebugActionIndex": 227
+=======
+        425
+      ],
+      "DebugActionIndex": 885
+>>>>>>> Stashed changes
 =======
         425
       ],
@@ -70069,9 +71371,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         151
       ],
       "DebugActionIndex": 228
+=======
+        431
+      ],
+      "DebugActionIndex": 886
+>>>>>>> Stashed changes
 =======
         431
       ],
@@ -70090,9 +71398,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         151
       ],
       "DebugActionIndex": 229
+=======
+        431
+      ],
+      "DebugActionIndex": 887
+>>>>>>> Stashed changes
 =======
         431
       ],
@@ -70111,9 +71425,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         157
       ],
       "DebugActionIndex": 230
+=======
+        437
+      ],
+      "DebugActionIndex": 888
+>>>>>>> Stashed changes
 =======
         437
       ],
@@ -70132,10 +71452,13 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         157
       ],
       "DebugActionIndex": 231
 =======
+=======
+>>>>>>> Stashed changes
         437
       ],
       "DebugActionIndex": 889
@@ -70559,6 +71882,9 @@
         525
       ],
       "DebugActionIndex": 917
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -70573,9 +71899,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         163
       ],
       "DebugActionIndex": 232
+=======
+        532
+      ],
+      "DebugActionIndex": 918
+>>>>>>> Stashed changes
 =======
         532
       ],
@@ -70594,9 +71926,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         163
       ],
       "DebugActionIndex": 233
+=======
+        532
+      ],
+      "DebugActionIndex": 919
+>>>>>>> Stashed changes
 =======
         532
       ],
@@ -70615,9 +71953,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         169
       ],
       "DebugActionIndex": 234
+=======
+        538
+      ],
+      "DebugActionIndex": 920
+>>>>>>> Stashed changes
 =======
         538
       ],
@@ -70636,9 +71980,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         169
       ],
       "DebugActionIndex": 235
+=======
+        538
+      ],
+      "DebugActionIndex": 921
+>>>>>>> Stashed changes
 =======
         538
       ],
@@ -70657,9 +72007,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         175
       ],
       "DebugActionIndex": 236
+=======
+        544
+      ],
+      "DebugActionIndex": 922
+>>>>>>> Stashed changes
 =======
         544
       ],
@@ -70678,9 +72034,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         175
       ],
       "DebugActionIndex": 237
+=======
+        544
+      ],
+      "DebugActionIndex": 923
+>>>>>>> Stashed changes
 =======
         544
       ],
@@ -70699,9 +72061,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         181
       ],
       "DebugActionIndex": 238
+=======
+        550
+      ],
+      "DebugActionIndex": 924
+>>>>>>> Stashed changes
 =======
         550
       ],
@@ -70720,10 +72088,13 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         181
       ],
       "DebugActionIndex": 239
 =======
+=======
+>>>>>>> Stashed changes
         550
       ],
       "DebugActionIndex": 925
@@ -71477,6 +72848,9 @@
         728
       ],
       "DebugActionIndex": 975
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     },
     {
@@ -71491,9 +72865,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         187
       ],
       "DebugActionIndex": 240
+=======
+        735
+      ],
+      "DebugActionIndex": 976
+>>>>>>> Stashed changes
 =======
         735
       ],
@@ -71512,9 +72892,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         187
       ],
       "DebugActionIndex": 241
+=======
+        735
+      ],
+      "DebugActionIndex": 977
+>>>>>>> Stashed changes
 =======
         735
       ],
@@ -71533,9 +72919,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         193
       ],
       "DebugActionIndex": 242
+=======
+        765
+      ],
+      "DebugActionIndex": 978
+>>>>>>> Stashed changes
 =======
         765
       ],
@@ -71554,9 +72946,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         193
       ],
       "DebugActionIndex": 243
+=======
+        765
+      ],
+      "DebugActionIndex": 979
+>>>>>>> Stashed changes
 =======
         765
       ],
@@ -71575,9 +72973,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         199
       ],
       "DebugActionIndex": 244
+=======
+        771
+      ],
+      "DebugActionIndex": 980
+>>>>>>> Stashed changes
 =======
         771
       ],
@@ -71596,9 +73000,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         199
       ],
       "DebugActionIndex": 245
+=======
+        771
+      ],
+      "DebugActionIndex": 981
+>>>>>>> Stashed changes
 =======
         771
       ],
@@ -71617,9 +73027,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         205
       ],
       "DebugActionIndex": 246
+=======
+        777
+      ],
+      "DebugActionIndex": 982
+>>>>>>> Stashed changes
 =======
         777
       ],
@@ -71638,9 +73054,15 @@
       ],
       "ToBuildDependencies": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         205
       ],
       "DebugActionIndex": 247
+=======
+        777
+      ],
+      "DebugActionIndex": 983
+>>>>>>> Stashed changes
 =======
         777
       ],
@@ -71652,8 +73074,13 @@
       "DisplayName": "Writing 6097564273297756792.rsp",
       "ActionType": "WriteFile",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "PayloadOffset": 879506,
       "PayloadLength": 7545,
+=======
+      "PayloadOffset": 4802093,
+      "PayloadLength": 14232,
+>>>>>>> Stashed changes
 =======
       "PayloadOffset": 4802093,
       "PayloadLength": 14232,
@@ -71664,7 +73091,11 @@
         "Library/Bee/artifacts/rsp/6097564273297756792.rsp"
       ],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 248
+=======
+      "DebugActionIndex": 984
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 984
 >>>>>>> Stashed changes
@@ -71698,7 +73129,10 @@
         "Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll",
         "Assets/SGS/Plugins/SpeechGenerationSystem.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll",
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         "Library/ScriptAssemblies/Assembly-CSharp.dll",
@@ -71709,10 +73143,13 @@
         "Library/ScriptAssemblies/ProceduralToolkit.LibTessDotNet.dll",
         "Library/ScriptAssemblies/ProceduralToolkit.Samples.dll",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "Library/ScriptAssemblies/UMA_Content.dll",
         "Library/ScriptAssemblies/UMA_Core.dll",
         "Library/ScriptAssemblies/UMA_Examples.dll",
 =======
+=======
+>>>>>>> Stashed changes
         "Library/ScriptAssemblies/Purchasing.Common.dll",
         "Library/ScriptAssemblies/UMA_Content.dll",
         "Library/ScriptAssemblies/UMA_Core.dll",
@@ -71769,6 +73206,9 @@
         "Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll",
         "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll",
         "Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         "Library/Bee/artifacts/rsp/6097564273297756792.rsp"
       ],
@@ -71776,6 +73216,7 @@
         "Library/BuildPlayerData/Editor/TypeDb-All.json"
       ],
       "ToBuildDependencies": [
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
         210,
         212,
@@ -71789,6 +73230,8 @@
         244,
         248
 =======
+=======
+>>>>>>> Stashed changes
         780,
         790,
         798,
@@ -71848,6 +73291,9 @@
         976,
         980,
         984
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
       ],
       "FrontendResponseFiles": [
@@ -71856,7 +73302,11 @@
       "AllowUnexpectedOutput": true,
       "Env": [],
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "DebugActionIndex": 249
+=======
+      "DebugActionIndex": 985
+>>>>>>> Stashed changes
 =======
       "DebugActionIndex": 985
 >>>>>>> Stashed changes
@@ -71869,15 +73319,21 @@
       "ToBuildDependencies": [
         6,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         249
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 250
 =======
+=======
+>>>>>>> Stashed changes
         985
       ],
       "OverwriteOutputs": false,
       "DebugActionIndex": 986
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],
@@ -72087,9 +73543,12 @@
     },
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "File": "Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll"
     },
     {
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
       "File": "Assets/UMA/Content/csc.rsp"
@@ -72115,7 +73574,10 @@
     {
       "File": "Library/Bee/1900b0aEDbg-inputdata.json"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     },
     {
       "File": "Library/PackageCache/com.unity.2d.sprite@1.0.0/Editor/csc.rsp"
@@ -72377,6 +73839,9 @@
     },
     {
       "File": "Library/PackageCache/com.unity.xr.openxr@1.13.0/RuntimeDebugger/Editor/csc.rsp"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],
@@ -72405,7 +73870,11 @@
           "all_tundra_nodes": 0,
           "ScriptAssemblies": 6,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           "ScriptAssembliesAndTypeDB": 250
+=======
+          "ScriptAssembliesAndTypeDB": 986
+>>>>>>> Stashed changes
 =======
           "ScriptAssembliesAndTypeDB": 986
 >>>>>>> Stashed changes
