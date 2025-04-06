@@ -1,6 +1,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 Library\Bee\artifacts\mvdfrm\Unity.2D.Sprite.Editor.ref.dll_0169DD889AE82A51.mvfrm
@@ -59,6 +62,9 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.SpatialTracking.ref.dll_42E75335C25EB99
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_1A140323D56DB509.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.XR.LegacyInputHelpers.ref.dll_1836C6475EC0BAA9.mvfrm
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -106,7 +112,10 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.JSONSerializeModule.dll_D02C19015C9C25A
 Library\Bee\artifacts\mvdfrm\UnityEngine.LocalizationModule.dll_637B3510C45BB3AC.mvfrm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Library\Bee\artifacts\mvdfrm\UnityEngine.NVIDIAModule.dll_9A939EC84E78938E.mvfrm
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -153,7 +162,14 @@ Library\Bee\artifacts\mvdfrm\UnityEngine.VRModule.dll_698D763E2A27EC4F.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.WindModule.dll_0D2BCEC6A4FC4D4B.mvfrm
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm
+=======
+Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Editor.dll_448B18A867B17122.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Analytics.Tracker.dll_B294C7C751B9DF6F.mvfrm
+>>>>>>> Stashed changes
 =======
 Library\Bee\artifacts\mvdfrm\UnityEngine.XRModule.dll_9C4C3942B36239AD.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Analytics.StandardEvents.dll_2539AF974BFE7ABE.mvfrm

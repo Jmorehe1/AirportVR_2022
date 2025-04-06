@@ -150,7 +150,10 @@
 -r:"Assets/SGS/Plugins/SpeechGenerationSystem.dll"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -r:"Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -200,7 +203,10 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll"
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -371,10 +377,13 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.ClipperLib.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.FastNoiseLib.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/ProceduralToolkit.LibTessDotNet.ref.dll"
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 -r:"Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
@@ -391,6 +400,9 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

@@ -8,6 +8,7 @@
 "traceEvents":[
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 { "pid": 25892, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
 { "pid": 25892, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
 { "pid": 25892, "tid": 17, "ph": "M", "name": "thread_name", "args": { "name": "Thread Pool Worker" } },
@@ -1530,6 +1531,8 @@
 { "pid": 25892, "tid": 17, "ts": 1743909155817223, "dur": 21124, "ph": "X", "name": "backend1.traceevents", "args": {} },
 { "pid": 25892, "tid": 17, "ts": 1743909155809878, "dur": 28573, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 { "pid": 24608, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
@@ -9138,6 +9141,9 @@
 { "pid": 24608, "tid": 10, "ts": 1741953201209818, "dur": 14306, "ph": "X", "name": "backend1.traceevents", "args": {} },
 { "pid": 24608, "tid": 10, "ts": 1741953201192919, "dur": 33186, "ph": "X", "name": "Write chrome-trace events", "args": {} },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
