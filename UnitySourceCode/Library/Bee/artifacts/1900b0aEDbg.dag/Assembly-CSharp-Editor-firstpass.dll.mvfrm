@@ -1,3 +1,33 @@
+<<<<<<< Updated upstream
+=======
+GridBrush
+UnityEditor
+GridBrushEditor
+GridBrushEditorBase
+GridSelection
+ActionBasedControllerEditor
+UnityEngine
+XR
+Interaction
+Toolkit
+XRBaseControllerEditor
+XRControllerEditor
+XRControllerRecorderEditor
+XRControllerRecordingEditor
+XRRigEditor
+PackageManagerEditorHelper
+Utilities
+InputHelpers
+
+AttachPointVelocityTracker
+UnityEngine
+XR
+Interaction
+Toolkit
+IAttachPointVelocityProvider
+AttachPointVelocityProviderExtensions
+IAttachPointVelocityTracker
+>>>>>>> Stashed changes
 AssetModificationProcessor
 
 Sysroot

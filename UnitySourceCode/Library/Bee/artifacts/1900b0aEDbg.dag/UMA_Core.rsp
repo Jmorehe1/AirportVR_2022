@@ -148,7 +148,10 @@
 -r:"Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Editor/SALSA-LipSync-Editor.dll"
 -r:"Assets/Plugins/Crazy Minnow Studio/SALSA LipSync/Plugins/SALSA-LipSync.dll"
 -r:"Assets/SGS/Plugins/SpeechGenerationSystem.dll"
+<<<<<<< Updated upstream
 -r:"Assets/TextToSpeech/_Generic/3rdParty/JsonDotNet/Newtonsoft.Json.dll"
+=======
+>>>>>>> Stashed changes
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEditor.Graphs.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
@@ -192,7 +195,10 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.LocalizationModule.dll"
+<<<<<<< Updated upstream
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.NVIDIAModule.dll"
+=======
+>>>>>>> Stashed changes
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll"
@@ -357,7 +363,22 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+<<<<<<< Updated upstream
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll"
+=======
+-r:"Library/PackageCache/com.unity.analytics@3.8.1/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll"
+-r:"Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Editor.dll"
+-r:"Library/PackageCache/com.unity.analytics@3.8.1/Unity.Analytics.Tracker.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/log4netPlastic.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll"
+-r:"Library/PackageCache/com.unity.collab-proxy@2.5.2/Lib/Editor/PlasticSCM/unityplastic.dll"
+-r:"Library/PackageCache/com.unity.nuget.newtonsoft-json@3.2.1/Runtime/Newtonsoft.Json.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Addressable_Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.Timeline.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+>>>>>>> Stashed changes
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.51f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/UMA/Core/Decals/Scripts/Decal.cs"

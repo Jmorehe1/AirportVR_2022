@@ -1,7 +1,10 @@
 {
   "dependencies": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
@@ -26,6 +29,9 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "com.unity.ai.navigation": {
       "version": "1.1.5",
@@ -37,7 +43,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     "com.unity.analytics": {
       "version": "3.8.1",
       "depth": 0,
@@ -48,6 +57,9 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "com.unity.collab-proxy": {
       "version": "2.5.2",
@@ -114,7 +126,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.1",
       "depth": 2,
@@ -122,6 +137,9 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "com.unity.postprocessing": {
       "version": "3.4.0",
@@ -133,7 +151,10 @@
       "url": "https://packages.unity.com"
     },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     "com.unity.purchasing": {
       "version": "4.11.0",
       "depth": 0,
@@ -169,6 +190,9 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     "com.unity.test-framework": {
       "version": "1.1.33",
